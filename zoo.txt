@@ -1,4 +1,6 @@
 lion
 wolf
 tiger
+giraffe
+monkey
 
